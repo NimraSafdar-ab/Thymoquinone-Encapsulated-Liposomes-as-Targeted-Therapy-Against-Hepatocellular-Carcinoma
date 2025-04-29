@@ -1,7 +1,5 @@
 # Thymoquinone-Encapsulated-Liposomes-as-Targeted-Therapy-Against-Hepatocellular-Carcinoma
-Project Summary: “LivCure – Targeted Liposomal Therapy for Liver Cancer”
-Project Title: Thymoquinone-Encapsulated Liposomes as Targeted Therapy Against Hepatocellular Carcinoma
-Product Name: LivCure
+*Product Name: LivCure*
 (A natural-origin, nano-formulated therapy designed to target liver cancer)
 Core Objective:
 Develop a liposome-based drug delivery system encapsulating thymoquinone (TQ) from Nigella sativa to treat hepatocellular carcinoma (HCC) with increased precision and reduced side effects.
